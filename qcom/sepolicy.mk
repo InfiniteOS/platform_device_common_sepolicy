@@ -4,4 +4,4 @@
 #
 
 BOARD_SEPOLICY_DIRS += \
-    device/lineage/sepolicy/qcom
+    device/common/sepolicy/qcom
